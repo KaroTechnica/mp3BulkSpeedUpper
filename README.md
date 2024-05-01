@@ -1,2 +1,16 @@
 # mp3BulkSpeedUpper
-Tool to speed up mp3 audio files in bulk preserving the original pitch
+
+# Description:
+mp3BulkSpeedUpper is a tool designed to speed up multiple MP3 audio files simultaneously while preserving the original pitch. It utilizes the ffmpeg library for the audio processing tasks.
+
+# Features:
+
+Batch processing: Speed up multiple MP3 files at once.
+Pitch preservation: Maintains the original pitch of the audio.
+Simple user interface: Easy-to-use graphical interface for selecting files and initiating the conversion process.
+
+# Requirements:
+
+Python 3
+PyQt6
+ffmpeg library
