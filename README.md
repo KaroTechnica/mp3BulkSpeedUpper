@@ -13,3 +13,10 @@
 - Python 3
 - PyQt6
 - ffmpeg library
+
+# To-do List
+
+- Default input/output folder settings (UI)
+- File overwriting option (+ trashbin folder)
+- Speed control (UI)
+- .exe file
